@@ -6,4 +6,8 @@
 4. You may adjust     border-radius: 50%;  to your desired size this one looks best
 
 
+Dont forget to use LiveServer to see all your work in progress.
+
+Have fun making your link tree clone!!!
+
 
