@@ -2,9 +2,9 @@ body{
      background: hotpink;
      background: linear-gradient(
          0deg,
-         pink,
+         turquoise,
          white,
-         black
+        pink
      );
      background-repeat: no-repeat;
      height: 100%;
@@ -33,5 +33,6 @@ a{
     padding: 30px;
 }
 a:hover{
-
+transform: scale(1.02);
+box-shadow: 5px 5px 10px 2px black;
 }
