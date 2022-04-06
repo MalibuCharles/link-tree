@@ -5,6 +5,7 @@
 3. In style.css we are are using      background-repeat: no-repeat;  so our gradient background doesn't start again
 4. You may adjust     border-radius: 50%;  to your desired size this one looks best
 
+5. You may add as many links as you want. Be creative and show the world all your platforms
 
 Dont forget to use LiveServer to see all your work in progress.
 
