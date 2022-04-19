@@ -11,4 +11,6 @@ Dont forget to use LiveServer to see all your work in progress.
 
 Have fun making your link tree clone!!!
 
+Next up we going to create a qr code that hooks up to this.
+
 
